@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Phase-2-code-challenge--Bot-battlr/static/css/main.e9bc3e25.chunk.css",
+    "main.js": "/Phase-2-code-challenge--Bot-battlr/static/js/main.ceff81a5.chunk.js",
+    "main.js.map": "/Phase-2-code-challenge--Bot-battlr/static/js/main.ceff81a5.chunk.js.map",
+    "runtime-main.js": "/Phase-2-code-challenge--Bot-battlr/static/js/runtime-main.0070760b.js",
+    "runtime-main.js.map": "/Phase-2-code-challenge--Bot-battlr/static/js/runtime-main.0070760b.js.map",
+    "static/js/2.be4760f2.chunk.js": "/Phase-2-code-challenge--Bot-battlr/static/js/2.be4760f2.chunk.js",
+    "static/js/2.be4760f2.chunk.js.map": "/Phase-2-code-challenge--Bot-battlr/static/js/2.be4760f2.chunk.js.map",
+    "index.html": "/Phase-2-code-challenge--Bot-battlr/index.html",
+    "static/css/main.e9bc3e25.chunk.css.map": "/Phase-2-code-challenge--Bot-battlr/static/css/main.e9bc3e25.chunk.css.map",
+    "static/js/2.be4760f2.chunk.js.LICENSE.txt": "/Phase-2-code-challenge--Bot-battlr/static/js/2.be4760f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0070760b.js",
+    "static/js/2.be4760f2.chunk.js",
+    "static/css/main.e9bc3e25.chunk.css",
+    "static/js/main.ceff81a5.chunk.js"
+  ]
+}
